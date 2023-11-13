@@ -2,10 +2,10 @@
  
  ### WORK IN PROGRESS
 
- Some notebooks and notes, I developed during the LLM Engineering Course
+ Some notebooks and notes, I developed during the LLM Engineering Course:
 
-- Custom GPT Model
-- Supervised fine-tuning of GPT-2
+- *Custom GPT Model*: A notebook showing you how to train a GPT model to write like shakespeare.
+- *Supervised fine-tuning of GPT-2*: From an unsupervised trained GPT-2 model to a supervised fine-tuned model to translate from text to SQL.
 
 
 ## License
